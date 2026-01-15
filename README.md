@@ -38,6 +38,7 @@ Aethera demonstrates how modern infrastructure will be operated:
 
 ## Architecture
 
+
 ```text
 Intent
   │
@@ -45,9 +46,11 @@ Intent
 Agents ──► Safety Gate ──► Digital Twin ──► Execution ──► Telemetry ──► Learning
                 ▲                                               │
                 └───────────────────────────────────────────────┘
+```
 ---
 
 ## Core Pillars
+
 <table> <tr><td>Agentic AI</td><td>Reasoning-driven network operations</td></tr> <tr><td>Digital Twin</td><td>Zero-blast-radius simulation</td></tr> <tr><td>Safety Gate</td><td>Policy firewall for AI</td></tr> <tr><td>Execution Fabric</td><td>Deterministic pipelines</td></tr> <tr><td>Self-Healing</td><td>Closed-loop recovery</td></tr> </table>
 
 ---
@@ -61,6 +64,8 @@ twin/          Digital twin & simulation
 executor/      Deterministic pipelines  
 telemetry/     Learning & anomaly detection  
 labs/          Autonomous labs  
+
+---
 
 ## Why This Exists
 
