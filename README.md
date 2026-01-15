@@ -6,7 +6,7 @@
 Open Autonomous Network Fabric
 </p>
 
-<p><b>The reference architecture for self-healing, simulation-verified, policy-governed networks.</b></p>
+<p><b>Self-healing | Autonomous | Predictive | Governed</b></p>
 
 </div>
 
