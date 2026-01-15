@@ -1,34 +1,29 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:000000&height=120&section=header&text=AETHERA&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-# AETHERA  
-### Open Autonomous Network Fabric
-
-<p style="opacity:.8;font-size:1.05rem;">
-The reference architecture for building self-healing, simulation-verified, policy-governed autonomous networks.
+<p style="font-size:1.15rem;opacity:.8">
+Open Autonomous Network Fabric
 </p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:000000&height=2&section=header"/>
-
-<br/>
-
-<b>Networks do not fail.<br/>Control planes do.</b>
-
-<br/><br/>
+<p><b>The reference architecture for self-healing, simulation-verified, policy-governed networks.</b></p>
 
 </div>
 
 ---
 
-## The Control Plane of the Future
+## The Problem
 
-Aethera demonstrates how modern infrastructure will be operated:
+Modern networks are no longer operable by humans.
 
-| Traditional | Aethera |
-|------------|--------|
+Control planes are fragmented, changes are blind, outages are inevitable.
+
+---
+
+## The Aethera Model
+
+| Traditional Ops | Aethera Fabric |
+|-----------------|----------------|
 | Tickets | Intents |
 | Blind changes | Simulated changes |
 | Manual rollback | Autonomous healing |
@@ -36,13 +31,12 @@ Aethera demonstrates how modern infrastructure will be operated:
 
 ---
 
-## Architecture
-
+## Core Architecture
 
 ```text
 Intent
-  │
-  ▼
+   │
+   ▼
 Agents ──► Safety Gate ──► Digital Twin ──► Execution ──► Telemetry ──► Learning
                 ▲                                               │
                 └───────────────────────────────────────────────┘
@@ -73,3 +67,5 @@ Networks are now too complex to be manually operated.
 
 Aethera is the blueprint for the next operational era:
 self-healing, autonomous, predictive, governed.
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:000000&height=80&section=footer"/> <p style="opacity:.5">Aethera • Open Autonomous Network Fabric</p> </div>
