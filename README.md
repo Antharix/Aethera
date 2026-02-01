@@ -22,7 +22,7 @@ Control planes are fragmented, changes are blind, outages are inevitable.
 
 ## The Aethera Model
 
-| Traditional Ops | Aethera Fabric |
+| Traditional Ops | Aethera Fabric | 
 |-----------------|----------------|
 | Tickets | Intents |
 | Blind changes | Simulated changes |
